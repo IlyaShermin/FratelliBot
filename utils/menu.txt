@@ -1,0 +1,113 @@
+Закуски:
+Батат фри с трюфельно-сырным соусом 472
+Маринованные оливки 209
+Брускетта с цыпленком и соусом Руй 334
+Тартар из лосося с гуакамоле и лимоном 688
+
+Ризотто:
+Ризотто с белыми грибами 464
+Ризотто со страчателлой и тыквой 374
+Ризотто с креветками 462
+
+Салаты:
+Овощной салат с оливками и луковым песто 187
+Салат Цезарь с креветками 462
+Салат с цыпленком и соусом руй 396
+Буррата с узбекскими томатами 656
+
+Супы:
+Грибной крем-суп 192
+Домашний куриный суп с лапшой 143
+Тыквенный кремсуп с лососем 464
+
+Пицца:
+Барбекю 476
+Карбонара 588
+Маргарита 432
+Пепперони 572
+7 сыров 689
+
+Паста:
+Равиоли с курицей, грибами 443
+Равиоли с говядиной и зеленым горошком 436
+Равиоли с креветками и кальмаром 484
+Фетучини томаты черри и моцарелла 472
+Фетучини с бураттой, песто и кедровым орехом 465
+
+Горчие блюда:
+Бифштекс с грибным соусом 582
+Бургер с соусом 1000 островов 629
+Стейк из лосося 964
+Жаркое из кальмара с томатами и беби картофелем 648
+
+Десерты:
+Сорбет лимон 134
+Сорбет манго 145
+Фисташковое морожение 142
+Шоколадное мороженое 181
+Шоколадные макарунс 428
+
+Бар:
+По бокалам 125мл:
+Игристое:
+Glera Spumante, Villa degli Olmi 487
+Sekt Zweigelt, Goldeck (rose) 692
+
+Белое вино:
+Soave Sante Rive, Cielo 478
+Vinho Verde, Quintas das Arcas 482
+Sauvignon Blanc Arjent, Concilio 964
+Riesling Cambridge, Crossing 578
+
+Розовое вино:
+Vinho Verde Diario, Vercoope 479
+
+Красное вино:
+Chianti Riserva, Palazzo Nobile 432
+Pinotage, Golden Kaan 602
+Shiras Wakefield, Taylors 612
+
+По бутылкам 750мл:
+Игристое:
+Asti Frettino, Casa Vinicolti Morando (sweet) 2589
+Cava Dos Caprichos, Bodegas Jaume Serra 2898
+Tete de Cheval Brut, Golubitskoe 4526
+Sekt Haus Klosterberg, Markus Molitor 9484
+
+Белое вино:
+Soave Sante Rive, Cielo 2934
+Chenin Blanc, Home of Origine Wine 2692
+Sauvignon Blanc Ned, Marisco 5956
+Riesling Dry, Villa Volf 4639
+
+Розовое вино:
+Les Coquelicots Rose, Domaine Saint-Lannes 2234
+Vinho Verde Diario, Vercoope 2787
+
+Красное вино:
+Chianti Riserva, Palazzo Nobile 2578
+Malbec Pure, Trapiche 4592
+Memoro Rosso, Piccini 4776
+Ronan by Clinet, Chateau Clinet 8657
+
+Виски 40мл:
+William Lawson’s 409
+Jack Daniels 572
+Johnie Walker Black Label 978
+The Macallan 12 1203
+
+Кофе:
+Эспрессо 152
+Двойной эспрессо 234
+Американо 193
+Капучино 242
+Латте 251
+Флет Уайт 284
+Классический Раф 328
+Лавандовый Раф 325
+
+Чай:
+Молочный улун 270
+Жасминовая жемчужина 270
+Гречишный чай 270
+Ассам Мокалбари 270
