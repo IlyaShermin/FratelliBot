@@ -333,6 +333,11 @@ admin_kb = InlineKeyboardMarkup(
         [
             InlineKeyboardButton(text="Удалить user_id", callback_data="delete_my_user_id"),
             InlineKeyboardButton(text="Очистить отзывы", callback_data="clear_reviews")
+
+        ],
+        [
+            InlineKeyboardButton(text="Очистить брони", callback_data="clear_reservations"),
+            InlineKeyboardButton(text="Очистить заказы", callback_data="clear_deliveries")
         ],
         [
             InlineKeyboardButton(text="Скрыть панель", callback_data="hide_admin")

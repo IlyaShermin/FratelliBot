@@ -66,6 +66,22 @@ async def reservation_visitors(callback_query: CallbackQuery):
     await callback_query.message.delete()
 
 
+@router.callback_query(lambda c: c.data == 'clear_reservations')
+async def reservation_visitors(callback_query: CallbackQuery):
+    cur.execute("DELETE FROM reservations")
+    conn.commit()
+    await callback_query.message.answer("Удаление броней прошло успешно!")
+    await callback_query.message.delete()
+
+
+@router.callback_query(lambda c: c.data == 'clear_deliveries')
+async def reservation_visitors(callback_query: CallbackQuery):
+    cur.execute("DELETE FROM deliveries")
+    conn.commit()
+    await callback_query.message.answer("Удаление доставок прошло успешно!")
+    await callback_query.message.delete()
+
+
 @router.callback_query(lambda c: c.data == 'hide_admin')
 async def reservation_visitors(callback_query: CallbackQuery):
     await callback_query.message.delete()
